@@ -1,0 +1,16 @@
+PODS:
+  - CryptoSwift (0.13.1)
+
+DEPENDENCIES:
+  - CryptoSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+
+SPEC CHECKSUMS:
+  CryptoSwift: ff68c35a53e03177d31aaa2c1e8b3e010aeed6cb
+
+PODFILE CHECKSUM: 147f0f404782b21c1e6bacdc3ef1d3c1f992b728
+
+COCOAPODS: 1.5.3
